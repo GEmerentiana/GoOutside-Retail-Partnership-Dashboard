@@ -39,6 +39,7 @@ Allows analysis by year, retailer, and country to identify retailers with increa
 ### 6. Growth in Number of Retailers
 Tracks the development of the retailer network and supports evaluation of network expansion.
 
+
 ## Business Decision Framework
 
 The dashboard supports two main strategic directions:
