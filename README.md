@@ -10,6 +10,7 @@ https://datastudio.google.com/s/qiFoO638v8M
 
 > Note: The dashboard link may require the appropriate Google/Looker Studio access permissions.
 
+---
 ## Business Objective
 
 The project turns retail sales data into an interactive management dashboard. The analysis is designed to answer:
@@ -76,6 +77,7 @@ Aggregated Metrics
 Business Insights & Growth Decisions
 ```
 
+---
 ## SQL Analysis
 
 The `sql/` folder contains the SQL used for the dashboard analysis, including:
@@ -89,16 +91,19 @@ The `sql/` folder contains the SQL used for the dashboard analysis, including:
 - Sales growth by retailer
 - Retailer growth
 
+---
 ## Data
 
 The raw dataset is intentionally not included in this public repository unless its redistribution is explicitly permitted.
 
 See [`data/README.md`](data/README.md) for details.
 
+---
 ## Project Documentation
 
 The presentation script used to explain the dashboard is available in [`presentation/`](presentation/).
 
+---
 ## Tools & Technologies
 
 - SQL
@@ -108,6 +113,7 @@ The presentation script used to explain the dashboard is available in [`presenta
 - Business analysis
 - Retail / partnership analytics
 
+---
 ## Key Skills Demonstrated
 
 - Data aggregation and transformation
@@ -119,6 +125,7 @@ The presentation script used to explain the dashboard is available in [`presenta
 - Interactive dashboard design
 - Translating data into business recommendations
 
+---
 ## Repository Structure
 
 ```text
@@ -144,6 +151,7 @@ GoOutside-Retail-Partnership-Dashboard/
     └── project_notes.md
 ```
 
+---
 ## Disclaimer
 
 This repository is a portfolio presentation of the analytical workflow and dashboard. Source data, credentials, API keys, service-account files, and other confidential information must not be committed to the repository.
