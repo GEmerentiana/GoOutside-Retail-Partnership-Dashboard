@@ -2,6 +2,7 @@
 
 Interactive retail analytics dashboard developed to help a Retail Partnership decision-maker understand market structure, retailer performance, sales growth, and retailer-network growth.
 
+---
 ## Dashboard
 
 **Live Looker Studio dashboard:**  
@@ -19,6 +20,7 @@ The project turns retail sales data into an interactive management dashboard. Th
 - Is the retailer network expanding?
 - Where should the business focus partnership and growth efforts?
 
+---
 ## Dashboard Pages
 
 ### 1. Dashboard Overview
@@ -39,7 +41,7 @@ Allows analysis by year, retailer, and country to identify retailers with increa
 ### 6. Growth in Number of Retailers
 Tracks the development of the retailer network and supports evaluation of network expansion.
 
-
+---
 ## Business Decision Framework
 
 The dashboard supports two main strategic directions:
@@ -52,6 +54,7 @@ The dashboard supports two main strategic directions:
 - Expand the retailer network
 - Target a 15% increase in the number of retailers
 
+---
 ## Data & Analytics Workflow
 
 ```text
