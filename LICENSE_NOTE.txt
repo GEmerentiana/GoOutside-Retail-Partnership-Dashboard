@@ -1,0 +1,3 @@
+Choose a repository license before making the repository public.
+
+If the SQL/documentation is your original work and you want others to reuse it, a standard open-source license such as MIT may be appropriate. If you are unsure, leave the repository without a license until you decide.
